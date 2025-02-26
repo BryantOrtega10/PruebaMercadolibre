@@ -1,0 +1,77 @@
+# Archivos macOS innecesarios
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos Xcode
+xcuserdata/
+*.xcworkspace/
+*.xcuserstate
+
+# Swift Package Manager
+/.swiftpm
+Package.resolved
+
+# Carthage
+Carthage/Checkouts
+Carthage/Build
+
+# CocoaPods
+Pods/
+*.lock
+*.xcscmblueprint
+
+# Archivos generados por Xcode
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Archivos de logs y depuración
+*.log
+*.swp
+*.swo
+*.swn
+
+# Archivos de Crashlytics y Firebase
+firebase-debug.log
+crashlytics-build.log
+
+# Archivos específicos de simuladores
+*.simruntime
+*.device
+
+# Certificados y credenciales
+*.pem
+*.p12
+*.mobileprovision
+*.crt
+*.cer
+*.key
+
+# Archivos de configuración
+xcconfig/
+
+# Archivos de Swift Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Archivos de imágenes procesadas por Xcode
+*.tiff
+*.png
+
+# Archivos generados por Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archivos específicos de Git
+.git/
+
+# Archivos de cache
+*.xcassets/GeneratedImages
+
+.DS_Store
