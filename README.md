@@ -20,8 +20,8 @@ Esta es una prueba técnica en iOS para Mercadolibre. La aplicación permite rea
 ## Instalación y Ejecución
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/BryantOrtega10/Prueba_iOS_MercadoLibre.git
-   cd Prueba_iOS_MercadoLibre/PruebaMercadoLibre
+   git clone https://github.com/BryantOrtega10/PruebaMercadolibre.git
+   cd PruebaMercadolibre/PruebaMercadoLibre
    ```
 2. Abrir el proyecto en Xcode:
    ```sh
